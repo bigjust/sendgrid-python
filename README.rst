@@ -138,7 +138,7 @@ Set File Attachments
 SendGrid's `X-SMTPAPI`_
 -----------------------
 
-If you wish to use the X-SMTPAPI on your own app, you can use the
+If you wish to use the X-SMTPAPI from your own app, you can use the
 `SMTPAPI Python library`_.
 
 There are implementations for setter methods too.
